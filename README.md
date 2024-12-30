@@ -5,6 +5,9 @@ The final score was used to decide whether the individuals were a successful mat
 
 
 ## GPIO Setup
+![pulse2](https://github.com/user-attachments/assets/00a35517-0d93-4dd2-a4e8-b7c7479ff16f)
+![pulse](https://github.com/user-attachments/assets/6f1b7ead-acfb-4900-afb5-d0416468f379)
+
 
 ```
 ..1..2............3.
